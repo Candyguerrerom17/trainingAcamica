@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="My test suite" duration-ms="2105" started-at="2020-09-21T13:26:43Z" finished-at="2020-09-21T13:26:45Z">
+  <suite name="My test suite" duration-ms="2539" started-at="2020-09-22T02:29:46Z" finished-at="2020-09-22T02:29:48Z">
     <groups>
     </groups>
-    <test name="My first test" duration-ms="2105" started-at="2020-09-21T13:26:43Z" finished-at="2020-09-21T13:26:45Z">
+    <test name="My first test" duration-ms="2539" started-at="2020-09-22T02:29:46Z" finished-at="2020-09-22T02:29:48Z">
       <class name="com.automation.training.tests.WikiTests">
-        <test-method status="PASS" signature="beforeSuite(java.lang.String)[pri:0, instance:com.automation.training.tests.WikiTests@18be83e4]" name="beforeSuite" is-config="true" duration-ms="7735" started-at="2020-09-21T08:26:35Z" finished-at="2020-09-21T08:26:43Z">
+        <test-method status="PASS" signature="beforeSuite(java.lang.String)[pri:0, instance:com.automation.training.tests.WikiTests@18be83e4]" name="beforeSuite" is-config="true" duration-ms="7867" started-at="2020-09-21T21:29:38Z" finished-at="2020-09-21T21:29:46Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="testWikiSearchArticlePage()[pri:0, instance:com.automation.training.tests.WikiTests@18be83e4]" name="testWikiSearchArticlePage" duration-ms="2091" started-at="2020-09-21T08:26:43Z" finished-at="2020-09-21T08:26:45Z">
+        <test-method status="PASS" signature="testWikiSearchArticlePage()[pri:0, instance:com.automation.training.tests.WikiTests@18be83e4]" name="testWikiSearchArticlePage" duration-ms="2526" started-at="2020-09-21T21:29:46Z" finished-at="2020-09-21T21:29:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testWikiSearchArticlePage -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.automation.training.tests.WikiTests@18be83e4]" name="afterSuite" is-config="true" duration-ms="1090" started-at="2020-09-21T08:26:45Z" finished-at="2020-09-21T08:26:46Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.automation.training.tests.WikiTests@18be83e4]" name="afterSuite" is-config="true" duration-ms="1544" started-at="2020-09-21T21:29:48Z" finished-at="2020-09-21T21:29:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

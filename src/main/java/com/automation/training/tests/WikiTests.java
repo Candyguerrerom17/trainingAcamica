@@ -7,6 +7,7 @@ import com.automation.training.pages.ArticlePage;
 import com.automation.training.pages.WikiHomePage;
 
 public class WikiTests extends BaseTests {
+	
 
 	@Test(enabled = false)
 	public void testWikiSearch() {
@@ -22,6 +23,5 @@ public class WikiTests extends BaseTests {
 		articlePage.search("Hola mundo");
 		Assert.assertEquals(articlePage.getPageTitle(), "Hola mundo");
 	}
-	
 
 }

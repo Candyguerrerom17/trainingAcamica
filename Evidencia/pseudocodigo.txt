@@ -1,53 +1,48 @@
-
-*CREAR CUENTA
-BEFORE
-Abrir navegador
-Ir a la url https://www.espn.com/?src=com
-
-ABRIR MENU PROFILE
-INGRESAR INFORMACION DE CUENTA NUEVA
-VERIFICAR CREACION EXITOSA
-
-AFTER
-Cerrar navegador
+CONSULTA
+Before
+Cuenta bancaría activa
+Ingreso de tarjeta débito o crédito
 
 
-*INICIAR SESIÓN
-BEFORE
-Abrir navegador
-Ir a la url https://www.espn.com/?src=com
+Pasos:
+Selección de consulta
+Ingreso de clave
+Verificar valor de consulta
 
-ABRIR MENU PROFILE
-INGRESAR INFORMACION DE CUENTA
-VERIFICAR LOGEO EXITOSO
+After
+Retiro de tarjeta
 
-AFTER
-Cerrar navegador
+RETIRO
+Before
+Cuenta bancaría activa
+Saldo
+Ingreso de tarjeta débito o crédito
 
+Pasos:
+Selección de retiro
+Ingreso de monto
+Ingreso de clave
+Verificar mensaje retiro exitoso
 
-
-
-*ELIMINAR CUENTA
-BEFORE
-Abrir navegador
-Ir a la url https://www.espn.com/?src=com
-INICIAR SESION
-
-*ELIMINAR CUENTA
-VERIFICAR ELIMINACION EXITOSA
-
-AFTER
-Cerrar navegador
+After
+Saldo final
+Retiro de tarjeta
 
 
-*CERRAR SESIÓN.
-BEFORE
-Abrir navegador
-Ir a la url https://www.espn.com/?src=com
-INICIAR SESION
+TRASLADO
+Before
+Cuenta bancaría activa origen
+Saldo en cuenta origen
+Ingreso de tarjeta debito origen
+Cuenta bancaría activa destino
 
-CERRAR SESION
-VERIFICAR SESION CERRADA
+Pasos:
+Selección de transferencia
+Ingreso de cuenta destino
+Ingreso de monto
+Ingreso de clave
+Verificar mensaje traslado exitoso
 
-AFTER
-Cerrar navegador
+After
+Saldo final
+Retiro de tarjeta
